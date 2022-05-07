@@ -44,11 +44,11 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roshan9419&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
- Hackerrank     https://www.hackerrank.com/roshank9419  
- HackerEarth    https://www.hackerearth.com/@roshan562  
- CodeForces     https://codeforces.com/profile/roshank9419  
- LeetCode       https://leetcode.com/roshan9419/  
+ GeeksForGeeks  https://auth.geeksforgeeks.org/user/bhanupradeep123456/profile  
+ Hackerrank     https://www.hackerrank.com/bhanupradeep1231  
+ HackerEarth    https://www.hackerearth.com/@bhanupradeep123456  
+ CodeForces     https://codeforces.com/profile/bhanupradeep  
+ LeetCode       https://leetcode.com/Bhanu_pradeep/  
  
 ### YouTube
  https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
@@ -68,15 +68,15 @@ I'm a Computer Science Student 😊.
 <a><img alt="Roshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan9419&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/roshank9419/" target="_blank">
+<a href="https://www.linkedin.com/in/bhanu-pradeep/" target="_blank">
   <img align="left" alt="Roshan's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/RoshanK70963497/" target="_blank">
+<a href="https://twitter.com/Bhanu96142589" target="_blank">
   <img align="left" alt="Roshan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/roshank9419/" target="_blank">
+<a href="https://t.me/HRC70436W/" target="_blank">
   <img align="left" alt="Roshan's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="roshank9419@gmail.com" target="_blank">
+<a href="bhanupradeep123456@gmail.com" target="_blank">
   <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
