@@ -1,13 +1,13 @@
 ## Hey, I'm Bhanu Pradeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge) -->
-<a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/Bhanu-28"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Bhanu-28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
+<img alt="GIF" src="https://github.com/Bhanu-28/Bhanu-28/blob/master/hadder.gif?raw=true" width="500"/>  
 
 ### Languages and Tools  
 
