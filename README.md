@@ -35,9 +35,7 @@ I'm a Computer Science Student 😊.
 👍 Data Analysis  
 👍 Web Development    
 
-### Awards
-✨ 2nd Rank at COFAS International 2018  
-✨ 3rd Rank at Online CodeEd Hackathon 2020  
+
 
 ### **Highlights**
 
@@ -57,15 +55,6 @@ I'm a Computer Science Student 😊.
 ## 📊 Github stats
 
 <!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
-  <br/>
-    <a><img alt="Roshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a><img alt="Roshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-<!-- </details> -->
-
-<a><img alt="Roshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan9419&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/bhanu-pradeep/" target="_blank">
@@ -74,9 +63,7 @@ I'm a Computer Science Student 😊.
 <a href="https://twitter.com/Bhanu96142589" target="_blank">
   <img align="left" alt="Roshan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/HRC70436W/" target="_blank">
-  <img align="left" alt="Roshan's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+
 <a href="bhanupradeep123456@gmail.com" target="_blank">
   <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
