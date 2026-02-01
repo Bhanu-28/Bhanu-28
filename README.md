@@ -1,6 +1,5 @@
 ## Hey, I'm Bhanu Pradeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge) -->
 <a href="https://github.com/Bhanu-28"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Bhanu-28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
 I'm a Computer Science Student 😊.  
@@ -58,12 +57,12 @@ I'm a Computer Science Student 😊.
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/bhanu-pradeep/" target="_blank">
-  <img align="left" alt="Roshan's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Bhanus's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/Bhanu96142589" target="_blank">
-  <img align="left" alt="Roshan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://x.com/bhanupr41187622" target="_blank">
+  <img align="left" alt="Bhanu's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="bhanupradeep123456@gmail.com" target="_blank">
-  <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Bhanu's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
