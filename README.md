@@ -30,21 +30,13 @@
 👍 Web Development    
 
 
-
-### **Highlights**
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=roshan9419&theme=dracula&column=7&margin-w=15&margin-h=15)
-
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/bhanupradeep123456/profile  
  Hackerrank     https://www.hackerrank.com/bhanupradeep1231  
  HackerEarth    https://www.hackerearth.com/@bhanupradeep123456  
  CodeForces     https://codeforces.com/profile/bhanupradeep  
  LeetCode       https://leetcode.com/Bhanu_pradeep/  
- 
-### YouTube
- https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
- 
+  
 
 ## 📊 Github stats
 
@@ -58,6 +50,6 @@
   <img align="left" alt="Bhanu's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="bhanupradeep123456@gmail.com" target="_blank">
+<a href="gorrebhanupradeepkumar@gmail.com" target="_blank">
   <img align="left" alt="Bhanu's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
