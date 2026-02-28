@@ -25,7 +25,6 @@
 👍 App Development  
 👍 AI / ML  
 👍 Software Development  
-👍 Game Development  
 👍 Data Analysis  
 👍 Web Development    
 
