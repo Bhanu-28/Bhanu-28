@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Bhanu-28"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Bhanu-28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
-⚡ Building robust backend systems with **Java (Spring Boot)** and **Python (FastAPI/Django)** for high-performance applications.  
+⚡ Building robust fullstack systems with **Java (Spring Boot)** and **Python (FastAPI/Django)** for high-performance applications.  
 🐳 Leveraging **Docker** and container orchestration to deliver scalable, cloud-native solutions.  
 🚀 Committed to continuous learning and applying modern development practices to solve complex problems.
 
